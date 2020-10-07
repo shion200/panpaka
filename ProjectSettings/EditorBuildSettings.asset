@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Brock.unity
+    guid: 6714b283953cb5f429d7c0f1656cd67b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/title.unity
+    guid: 147c78e9182a00f44969c1e5fda30a08
   m_configObjects: {}
